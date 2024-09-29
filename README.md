@@ -1,2 +1,2 @@
-# Data_Science_Nanodegree
+# Data Science Nanodegree
 Data Science Nanodegree 
