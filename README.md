@@ -1,6 +1,6 @@
 
-<h2>Data Science Nanodegree
-Nanodegree Skills</h2>
+<h2>Data Science Nanodegree</h2>
+<h3>Nanodegree Skills: </h3>
 
 
 Introduction to Data Science
